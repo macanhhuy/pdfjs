@@ -1,0 +1,17 @@
+{
+  "name": "pdfjs",
+  "homepage": "https://github.com/macanhhuy/pdfjs",
+  "authors": [
+    "Mac Anh Huy"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
