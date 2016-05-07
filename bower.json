@@ -1,11 +1,19 @@
 {
   "name": "pdfjs",
+  "version": "0.1.1",
   "homepage": "https://github.com/macanhhuy/pdfjs",
   "authors": [
     "Mac Anh Huy"
   ],
   "description": "",
-  "main": "",
+  "main": [
+    "web/viewer.css",
+    "web/compatibility.js",
+    "web/l10n.js",
+    "build/pdf.js",
+    "web/debugger.js",
+    "web/viewer.js"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
